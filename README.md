@@ -9,6 +9,3 @@ This Repository consist of following things:
 -   VIDEO of Working of Application
 
 NOTE - Login Details are in Login.txt file ( Id and Password are CASE SENSITIVE )
-
-
-For any queries kindly contact RUDRA BARAD | rudra.barad@gmail.com
