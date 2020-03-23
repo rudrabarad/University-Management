@@ -1,5 +1,5 @@
 # University-Management
-University Management Application build with C++
+<b>University Management Application build with C++</b>
 
 This Repository consist of following things:
 
@@ -8,4 +8,4 @@ This Repository consist of following things:
 -   Image having ASCII Codes
 -   VIDEO of Working of Application
 
-NOTE - Login Details are in Login.txt file ( Id and Password are CASE SENSITIVE )
+<i>NOTE - Login Details are in Login.txt file ( Id and Password are CASE SENSITIVE )</i>
