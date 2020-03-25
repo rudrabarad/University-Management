@@ -19,4 +19,8 @@ This Repository consist of following :
     -   Student Section
         -   List Of Students
     -   Faculty Section
-    -   
+        -   List Of HOD's
+        -   List Of Faculties
+-   Student & Faculty Login
+    -   Results
+    -   Details
