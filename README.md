@@ -17,7 +17,7 @@ This Repository consist of following :
     -   Salary Certificate
 -   Admin Department
     -   Student Section     -   List Of Student
-    -   Faculty Section     -   List Of HOD's & Faculties
+    -   Faculty Section     -   List Of Faculties & HOD's
 -   Student & Faculty Login
     -   Results
     -   Details
