@@ -16,11 +16,8 @@ This Repository consist of following :
     -   Fee Receipt
     -   Salary Certificate
 -   Admin Department
-    -   Student Section
-        -   List Of Students
-    -   Faculty Section
-        -   List Of HOD's
-        -   List Of Faculties
+    -   Student Section     -   List Of Student
+    -   Faculty Section     -   List Of HOD's & Faculties
 -   Student & Faculty Login
     -   Results
     -   Details
